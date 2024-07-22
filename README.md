@@ -1,3 +1,3 @@
 # VR-Maze
 
-hi
+A virtual-reality maze with wayfinding system, travelling system and UI canvas.
